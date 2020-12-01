@@ -9,6 +9,7 @@ Whatsapp automation weekend project
 3. Goto Settings tab > Build packs and add following ones:
    https://github.com/jontewks/puppeteer-heroku-buildpack.git
    https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+   And dont forget to add Nodejs in buildpacks clicking on add buildpacks>Nodejs
 4. If you want to customize commands do it now as you will have to scan qr again after changing. Read customization below. To set config vars go to Settings tab > Config vars > Reveal Config vars
 5. Then go to Deploy tab and select Github. Connect your github account and search for your fork and click Deploy Branch.
 6. Click on more on top right and select view Logs.
