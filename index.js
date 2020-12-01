@@ -19,7 +19,7 @@ const helpText =
 
 Add '#nospam' in group description to stop spam commands
 All commands except #spam & #leave work in pm
-Made by: pathetic_geek (https://github.com/patheticGeek)
+Made by: shreyansh_parashar (https://github.com/shreyanshparashar)
 `;
 
 const leaveText =
